@@ -17,7 +17,7 @@ def first_challenge
     if person == "Jon Snow"
       data.each do |attribute, value|
         if attribute == :favorite_icecream_flavors
-          contacts][Freddy Mercury][:favorite_icecream_flavors].shift
+          contacts[Freddy Mercury][:favorite_icecream_flavors].shift
         end
       end
     end
